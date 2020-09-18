@@ -1,0 +1,16 @@
+.text {
+    font-size: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.axis--y line {
+    stroke-opacity: 0.2;
+}
+
+.axis--y path {
+    stroke: none;
+}
